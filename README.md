@@ -16,12 +16,12 @@ Please also check the associated article available online published with the Jou
 ## Project Structure
     ├── data
     │   ├── figures    <- Generated figures are saved in this folder
-    │	  │
-    │	  ├── font    <- fonts for the figures (STIX)
-    │	  │
-    │	  ├── Tesla    <- cell and vehicle data
-    │	  │
-    │   └── VW       <- cell, halfcell and vehicle data (+raw vehicle data)
+    │   │
+    │   ├── font    <- fonts for the figures (STIX)
+    │   │
+    │   ├── Tesla    <- cell and vehicle data
+    │   │
+    │   └── VW       <- cell, halfcell and vehicle data (+raw vehicle data)
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     │                         the category, and a short description 
@@ -29,13 +29,13 @@ Please also check the associated article available online published with the Jou
     ├── src                <- Source code for use in this project.
     │   ├── __init__.py    <- Makes src a Python module
     │   │
-    │   ├── data           <- Scripts to load and prepare data for further processing
+    │   ├── data           <- Scripts to load and prepare data for further processing
     │   │   
     │   ├── filtering       <- Filtering methods to reduce the noise in DVA/ICA
     │   │
-    |	  ├── utils       <- Utils for calculating bode plots
+    |   ├── utils       <- Utils for calculating bode plots
     │   │
-    │	  ├── visualization  <- Scripts to create visualizations
+    │   ├── visualization  <- Scripts to create visualizations
     │   │    
     │   └── voltage_capacity_analysis <- Scripts to extract the DVA/ICA from timeseries data
     │
