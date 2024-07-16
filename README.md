@@ -15,7 +15,7 @@ Please also check the associated article available online published with the Jou
 
 ## Project Structure
     ├── data
-    │   ├── figures    <- Generated figures are saved in this folder  
+    │   ├── figures    <- Generated figures are saved in this folder
 	│	│
 	│	├── font    <- fonts for the figures (STIX)
 	│	│
@@ -32,11 +32,11 @@ Please also check the associated article available online published with the Jou
     │   ├── data           <- Scripts to load and prepare data for further processing
     │   │   
     │   ├── filtering       <- Filtering methods to reduce the noise in DVA/ICA
-    │   │   
-	│	├── utils       <- Utils for calculating bode plots
+    │   │
+	|	├── utils       <- Utils for calculating bode plots
     │   │
 	│	├── visualization  <- Scripts to create visualizations
-    │   │    
+	│   │    
     │   └── voltage_capacity_analysis <- Scripts to extract the DVA/ICA from timeseries data
 	│
     ├── .gitignore
