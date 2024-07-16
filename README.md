@@ -16,11 +16,11 @@ Please also check the associated article available online published with the Jou
 ## Project Structure
     ├── data
     │   ├── figures    <- Generated figures are saved in this folder
-    │	│
-    │	├── font    <- fonts for the figures (STIX)
-    │	│
-    │	├── Tesla    <- cell and vehicle data
-    │	│
+    │	  │
+    │	  ├── font    <- fonts for the figures (STIX)
+    │	  │
+    │	  ├── Tesla    <- cell and vehicle data
+    │	  │
     │   └── VW       <- cell, halfcell and vehicle data (+raw vehicle data)
     │
     ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
@@ -33,9 +33,9 @@ Please also check the associated article available online published with the Jou
     │   │   
     │   ├── filtering       <- Filtering methods to reduce the noise in DVA/ICA
     │   │
-    |	├── utils       <- Utils for calculating bode plots
+    |	  ├── utils       <- Utils for calculating bode plots
     │   │
-    │	├── visualization  <- Scripts to create visualizations
+    │	  ├── visualization  <- Scripts to create visualizations
     │   │    
     │   └── voltage_capacity_analysis <- Scripts to extract the DVA/ICA from timeseries data
     │
