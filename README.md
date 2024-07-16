@@ -64,7 +64,7 @@ git clone https://github.com/TUMFTM/Battery-Pack-Diagnostics-for-Electric-Vehicl
 pip install -r requirements.txt
 ```  
 3. download data from mediaTUM and place into data folder:
-```website
+```url
 https://mediatum.ub.tum.de/1737452
 ```
 
