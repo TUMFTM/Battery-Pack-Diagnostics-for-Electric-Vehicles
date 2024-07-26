@@ -14,7 +14,7 @@ Please also check the associated article available online published with the Jou
 * Notebooks for displaying data in Latex format
 
 ## Project Structure
-    ├── data
+    ├── data           <- must be created by user, download files from mediatum (link below)
     │   ├── figures    <- Generated figures are saved in this folder
     │   │
     │   ├── font    <- fonts for the figures (STIX)
