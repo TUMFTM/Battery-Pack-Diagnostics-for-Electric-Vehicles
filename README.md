@@ -95,7 +95,7 @@ We are looking forward to hearing your feedback and kindly ask you to share bugf
 @article{Bilfinger2024, <br />
   title = {Battery pack diagnostics for electric vehicles: Transfer of differential voltage and incremental capacity analysis from cell to vehicle level},<br />
   ISSN = {2590-1168},<br />
-  url = {http://dx.doi.org/10.1016/j.etran.2024.100356},<br />
+  url = {http://dx.doi.org/10.1016/j.etran.2024.100356 },<br />
   DOI = {10.1016/j.etran.2024.100356},<br />
   journal = {eTransportation},<br />
   publisher = {Elsevier BV},<br />
