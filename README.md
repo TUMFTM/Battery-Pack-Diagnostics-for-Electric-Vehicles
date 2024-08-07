@@ -3,8 +3,9 @@
 Derive curves for cell and vehicle level differential voltage analysis (DVA) and incremental capacity analyis (ICA) in python.
 
 ## Associated Article
-Please also check the associated article available online published in Transportation (Elsevier):
-[(Battery pack diagnostics for electric vehicles: Transfer of differential voltage and incremental capacity analysis from cell to vehicle level)](https://www.sciencedirect.com/science/article/pii/S2590116824000468)
+Please also check the associated article available online published in eTransportation (Elsevier):
+
+[Battery pack diagnostics for electric vehicles: Transfer of differential voltage and incremental capacity analysis from cell to vehicle level](https://www.sciencedirect.com/science/article/pii/S2590116824000468)
  
 ## Features
 * Calculation of DVA and ICA from timeseries data
