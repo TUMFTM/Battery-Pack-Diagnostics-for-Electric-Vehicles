@@ -92,13 +92,13 @@ We are looking forward to hearing your feedback and kindly ask you to share bugf
 
 ## BibTex entry
 
-@article{Bilfinger2024,
-  title = {Battery pack diagnostics for electric vehicles: Transfer of differential voltage and incremental capacity analysis from cell to vehicle level},
-  ISSN = {2590-1168},
-  url = {http://dx.doi.org/10.1016/j.etran.2024.100356},
-  DOI = {10.1016/j.etran.2024.100356},
-  journal = {eTransportation},
-  publisher = {Elsevier BV},
-  author = {Bilfinger,  Philip and Rosner,  Philipp and Schreiber,  Markus and Kr\"{o}ger,  Thomas and Gamra,  Kareem Abo and Ank,  Manuel and Wassiliadis,  Nikolaos and Dietermann,  Brian and Lienkamp,  Markus},
-  year = {2024}
+@article{Bilfinger2024, <br />
+  title = {Battery pack diagnostics for electric vehicles: Transfer of differential voltage and incremental capacity analysis from cell to vehicle level},<br />
+  ISSN = {2590-1168},<br />
+  url = {http://dx.doi.org/10.1016/j.etran.2024.100356},<br />
+  DOI = {10.1016/j.etran.2024.100356},<br />
+  journal = {eTransportation},<br />
+  publisher = {Elsevier BV},<br />
+  author = {Bilfinger,  Philip and Rosner,  Philipp and Schreiber,  Markus and Kr\"{o}ger,  Thomas and Gamra,  Kareem Abo and Ank,  Manuel and Wassiliadis,  Nikolaos and Dietermann,  Brian and Lienkamp,  Markus},<br />
+  year = {2024}<br />
 }
